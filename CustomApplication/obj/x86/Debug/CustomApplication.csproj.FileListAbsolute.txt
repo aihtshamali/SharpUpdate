@@ -1,0 +1,10 @@
+c:\users\internee2.internee2-pc\documents\visual studio 2010\Projects\CustomApplication\CustomApplication\bin\Debug\CustomApplication.exe
+c:\users\internee2.internee2-pc\documents\visual studio 2010\Projects\CustomApplication\CustomApplication\bin\Debug\CustomApplication.pdb
+c:\users\internee2.internee2-pc\documents\visual studio 2010\Projects\CustomApplication\CustomApplication\bin\Debug\SharpUpdate.dll
+c:\users\internee2.internee2-pc\documents\visual studio 2010\Projects\CustomApplication\CustomApplication\bin\Debug\SharpUpdate.pdb
+c:\users\internee2.internee2-pc\documents\visual studio 2010\Projects\CustomApplication\CustomApplication\obj\x86\Debug\CustomApplication.csprojResolveAssemblyReference.cache
+c:\users\internee2.internee2-pc\documents\visual studio 2010\Projects\CustomApplication\CustomApplication\obj\x86\Debug\CustomApplication.Form1.resources
+c:\users\internee2.internee2-pc\documents\visual studio 2010\Projects\CustomApplication\CustomApplication\obj\x86\Debug\CustomApplication.Properties.Resources.resources
+c:\users\internee2.internee2-pc\documents\visual studio 2010\Projects\CustomApplication\CustomApplication\obj\x86\Debug\CustomApplication.csproj.GenerateResource.Cache
+c:\users\internee2.internee2-pc\documents\visual studio 2010\Projects\CustomApplication\CustomApplication\obj\x86\Debug\CustomApplication.exe
+c:\users\internee2.internee2-pc\documents\visual studio 2010\Projects\CustomApplication\CustomApplication\obj\x86\Debug\CustomApplication.pdb
